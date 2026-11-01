@@ -1,0 +1,28 @@
+{
+  "collected_at": "2026-10-31T21:05:02.943598+09:00",
+  "method": "GET",
+  "endpoint": "/search/v1/news",
+  "status_code": 200,
+  "response": {
+    "lastBuildDate": "Sat, 31 Oct 2026 21:05:04 +0900",
+    "total": 18580,
+    "start": 1,
+    "display": 2,
+    "items": [
+      {
+        "title": "&quot;개인정보 활용부터 재난 예방까지&quot;…정부, AI 기반 디지털 행정 혁신 속...",
+        "originallink": "https://zdnet.co.kr/view/?no=20261029174206",
+        "link": "https://n.news.naver.com/mnews/article/092/0002443041?sid=105",
+        "description": "디지털서비스 개방은 정부와 공공기관이 제공하는 서비스를 <b>네이버</b>, 카카오, 금융기관 등 민간 앱에서도... 행안부는 성과공유회와 함께 디지털서비스 개방 응용프로그램인터페이스(<b>API</b>) 개발 지원사업 중간보고회를... ",
+        "pubDate": "Thu, 29 Oct 2026 17:43:00 +0900"
+      },
+      {
+        "title": "<b>네이버</b>서 기차표 끊고 은행 앱서 봉사 신청…디지털 개방 우수사례 선정",
+        "originallink": "https://www.dailian.co.kr/news/view/1707923/?sc=Naver",
+        "link": "https://n.news.naver.com/mnews/article/119/0003148723?sid=102",
+        "description": "없이 <b>네이버</b>, 카카오, 토스, 은행 앱 등 친숙한 민간 플랫폼 안에서 철도 승차권 예매, 자동차 검사 예약, 여권 재발급 신청 등을 편리하게 이용할 수 있도록 오픈 응용프로그램 인터페이스(<b>API</b>)를 제공하는 정책이다.... ",
+        "pubDate": "Thu, 29 Oct 2026 12:03:00 +0900"
+      }
+    ]
+  }
+}

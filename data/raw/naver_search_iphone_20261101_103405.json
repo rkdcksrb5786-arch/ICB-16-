@@ -1,0 +1,169 @@
+{
+  "query": "아이폰",
+  "collected_at": "2026-11-01T10:34:07.279837+09:00",
+  "results": [
+    {
+      "api": "뉴스",
+      "endpoint": "/search/v1/news",
+      "status_code": 200,
+      "response": {
+        "lastBuildDate": "Sun, 01 Nov 2026 10:34:07 +0900",
+        "total": 788102,
+        "start": 1,
+        "display": 2,
+        "items": [
+          {
+            "title": "<b>아이폰</b>듀오 파손논란…화면접기 까다로운 이유",
+            "originallink": "https://www.munhwa.com/article/11627808?ref=naver",
+            "link": "https://n.news.naver.com/mnews/article/021/0002829340?sid=101",
+            "description": "애플의 첫 폴더블 스마트폰 ‘<b>아이폰</b> 듀오’가 출시 초기부터 내부 화면 파손 논란에 휩싸였다. 최고 500만... 1일 산업계에 따르면, 글로벌 출시 직후부터 <b>아이폰</b> 듀오의 화면 파손 사례가 잇따르고 있다. 맥루머스 등... ",
+            "pubDate": "Sun, 01 Nov 2026 10:32:00 +0900"
+          },
+          {
+            "title": "<b>아이폰</b>18 프로, 출시 3주 판매 3.1% 증가…中 29% '나홀로 질주'",
+            "originallink": "https://www.econovill.com/news/articleView.html?idxno=755596",
+            "link": "https://www.econovill.com/news/articleView.html?idxno=755596",
+            "description": "애플의 <b>아이폰</b>18 프로 시리즈가 출시 초반 전작을 웃도는 판매 성적을 냈다. 다만 성장의 대부분은 중국에서... 1일 시장조사업체 카운터포인트리서치가 최근 조사한 스마트폰 주간 판매량 추적 자료에 따르면 <b>아이폰</b>18... ",
+            "pubDate": "Sun, 01 Nov 2026 10:28:00 +0900"
+          }
+        ]
+      }
+    },
+    {
+      "api": "백과사전",
+      "endpoint": "/search/v1/encyc",
+      "status_code": 200,
+      "response": {
+        "lastBuildDate": "Sun, 01 Nov 2026 10:34:08 +0900",
+        "total": 754,
+        "start": 1,
+        "display": 2,
+        "items": [
+          {
+            "title": "<b>아이폰</b>",
+            "link": "https://terms.naver.com/entry.naver?docId=4356498&cid=59918&categoryId=59918",
+            "description": "'오리지널 <b>아이폰</b>'은 애플사에서 2007년 6월 29일, 새로운 운영체제와 전면부 터치스크린이 탑재된 혁신적 핸드폰으로, 오늘날에도 전 세계적인 <b>아이폰</b> 열풍이 이어지고 있다. 미국 뉴욕 센트럴 공원",
+            "thumbnail": "http://openapi-dbscthumb.phinf.naver.net/5168_000_1/20171215120345125_5INKFHU4K.jpg/ka45_37_i1.jpg?type=m160_160"
+          },
+          {
+            "title": "<b>아이폰</b>",
+            "link": "https://terms.naver.com/entry.naver?docId=932748&cid=43667&categoryId=43667",
+            "description": "애플사에서 개발한 스마트폰으로, iOS라는 자체적인 운영체제를 기반으로 하고 있다. 최초의 <b>아이폰</b>은 2007년 1월 9일에 발표되었으며, 이후 매년 운영체제의 주요 변경 이력에 맞춰 새로운 모델이 ",
+            "thumbnail": "https://terms-post-phinf.pstatic.net/MjAxODA5MTRfMjkz/MDAxNTM2ODkwNzcwNzgy.GNc1jjZD4fArtBGjR012y4C1EYroW3UGExOpY_tTy6Qg.66mMk9HVpZc_7AVmTdtk7WohC5xC6Vkjoiv2_Y18NHgg.JPEG/image_797126781536890396713.jpg?type=m4500_4500_fst"
+          }
+        ]
+      }
+    },
+    {
+      "api": "블로그",
+      "endpoint": "/search/v1/blog",
+      "status_code": 200,
+      "response": {
+        "lastBuildDate": "Sun, 01 Nov 2026 10:34:08 +0900",
+        "total": 8483368,
+        "start": 1,
+        "display": 2,
+        "items": [
+          {
+            "title": "부산 알뜰폰 당일 개통, 오늘 새 번호가 필요하다면?편의점 유심으....",
+            "link": "https://blog.naver.com/ady5152/224460895628",
+            "description": "집에 보관 중인 갤럭시나 <b>아이폰</b> 등 공기계가 있다면 새로운 단말기를 구매할 필요가 없어요. 다만 통신사 이용 제한이나 분실·도난 등록 등으로 사용이 제한된 기기는 유심을 교체해도 정상 작동하지 않을... ",
+            "bloggername": "몽몽통신",
+            "bloggerlink": "https://blog.naver.com/ady5152",
+            "postdate": "20261101"
+          },
+          {
+            "title": "비짓재팬 웹 등록방법 일본 입국 전 QR코드 발급까지 따라하기",
+            "link": "https://blog.naver.com/zeroble_/224460894578",
+            "description": "이 포스팅은 네이버 쇼핑 커넥트 활동의 일환으로, 판매 발생 시 수수료를 제공받습니다. 일본 여행 준비하면서 항공권이랑 숙소까지 예약했다면 또 하나 챙겨야 할 게 있죠? 바로 **비짓재팬 웹(Visit Japan Web)... ",
+            "bloggername": "Colorful day",
+            "bloggerlink": "https://blog.naver.com/zeroble_",
+            "postdate": "20261101"
+          }
+        ]
+      }
+    },
+    {
+      "api": "웹 문서",
+      "endpoint": "/search/v1/webkr",
+      "status_code": 200,
+      "response": {
+        "lastBuildDate": "Sun, 01 Nov 2026 10:34:08 +0900",
+        "total": 34528700,
+        "start": 1,
+        "display": 2,
+        "items": [
+          {
+            "title": "iPhone - Apple",
+            "link": "https://www.apple.com/kr/iphone/",
+            "description": "Apple Intelligence를 위해 설계된 iPhone Duo, iPhone 18 Pro, iPhone Air, iPhone 17, iPhone 17e를 만나보세요."
+          },
+          {
+            "title": "Apple (대한민국)",
+            "link": "https://www.apple.com/kr/",
+            "description": "Apple이 제시하는 혁신적인 세상을 만나고, iPhone, iPad, Apple Watch, Mac, Apple TV 등을 구입하는 것은 물론, 액세서리, 엔터테인먼트, 전문가 기기 지원에 대해서도 살펴볼 수 있습니다."
+          }
+        ]
+      }
+    },
+    {
+      "api": "지식iN",
+      "endpoint": "/search/v1/kin",
+      "status_code": 200,
+      "response": {
+        "lastBuildDate": "Sun, 01 Nov 2026 10:34:08 +0900",
+        "total": 5360884,
+        "start": 1,
+        "display": 2,
+        "items": [
+          {
+            "title": "<b>아이폰</b> 발신제한표시 푸는법",
+            "link": "https://kin.naver.com/qna/detail.naver?dirId=107040201&docId=495780977&answerNo=2",
+            "description": "<b>아이폰</b>에서 발신번호 표시 설정을 변경했는데도 상대방에게 '발신번호 표시제한'으로 나타난다면, <b>아이폰</b> 자체 설정이 아니라 통신사 측 발신번호 표시 서비스와 관련된 문제일 가능성이 있습니다. (2). 우선 <b>아이폰</b>에..."
+          },
+          {
+            "title": "쿠팡에서 <b>아이폰</b> 사면 짭인가요?",
+            "link": "https://kin.naver.com/qna/detail.naver?dirId=10704&docId=494437459&answerNo=4",
+            "description": "쿠팡에서 <b>아이폰</b>을 구매하더라도 정품 맞습니다. 질문자님께서는 쿠팡 애플공인브랜드관에서 구매했다고 말씀해 주셨는데요. 거기 있는 <b>아이폰</b> 상품들은... 다시 말하자면, 쿠팡이 애플코리아와 공식 판매 계약을 맺은 후 취급하는 <b>아이폰</b>..."
+          }
+        ]
+      }
+    },
+    {
+      "api": "카페글",
+      "endpoint": "/search/v1/cafearticle",
+      "status_code": 200,
+      "response": {
+        "lastBuildDate": "Sun, 01 Nov 2026 10:34:09 +0900",
+        "total": 22814357,
+        "start": 1,
+        "display": 2,
+        "items": [
+          {
+            "title": "<b>아이폰</b> 17프로 중란",
+            "link": "https://cafe.naver.com/dieselmania/47599869",
+            "description": "쓱데이로 이마트 에이스토어 가면 20프로 할인이에요 재고는 뭐 생각보다많은듯? 전 임직원 할인카드 빌려와서 추가받았습니다.",
+            "cafename": "●디젤매니아● 대한민국 일등 패션 커뮤니티 디매인 DMAIN",
+            "cafeurl": "https://cafe.naver.com/dieselmania"
+          },
+          {
+            "title": "수원스트라이커, 수원성지에서 구매후기",
+            "link": "https://cafe.naver.com/whdrpzja/151126",
+            "description": "상담해주시는분들도 친절하시고 가게위치도 괜찮고 주변에 공영주차장있어서 주차하기도편해요!",
+            "cafename": "좌표나라 휴대폰 성지●운영원칙 신뢰성 좌표 나라●핸드폰 성지",
+            "cafeurl": "https://cafe.naver.com/whdrpzja"
+          }
+        ]
+      }
+    },
+    {
+      "api": "지역",
+      "endpoint": "/search/v1/local",
+      "status_code": 500,
+      "response": {
+        "errorMessage": "System error (시스템 에러)",
+        "errorCode": "SE99"
+      }
+    }
+  ]
+}

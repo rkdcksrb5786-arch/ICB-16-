@@ -1,0 +1,37 @@
+{
+  "collected_at": "2026-11-01T10:30:40.252139+09:00",
+  "method": "POST",
+  "endpoint": "/shopping/v1/categories",
+  "status_code": 200,
+  "response": {
+    "startDate": "2025-10-01",
+    "endDate": "2025-10-31",
+    "timeUnit": "month",
+    "results": [
+      {
+        "title": "패션의류",
+        "category": [
+          "50000000"
+        ],
+        "data": [
+          {
+            "period": "2025-10-01",
+            "ratio": 100
+          }
+        ]
+      },
+      {
+        "title": "화장품/미용",
+        "category": [
+          "50000002"
+        ],
+        "data": [
+          {
+            "period": "2025-10-01",
+            "ratio": 26.51616
+          }
+        ]
+      }
+    ]
+  }
+}

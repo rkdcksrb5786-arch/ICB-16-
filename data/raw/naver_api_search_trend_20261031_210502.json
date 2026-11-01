@@ -1,0 +1,38 @@
+{
+  "collected_at": "2026-10-31T21:05:03.129765+09:00",
+  "method": "POST",
+  "endpoint": "/search-trend/v1/search",
+  "status_code": 200,
+  "response": {
+    "startDate": "2025-10-01",
+    "endDate": "2025-10-31",
+    "timeUnit": "month",
+    "results": [
+      {
+        "title": "네이버",
+        "keywords": [
+          "네이버"
+        ],
+        "data": [
+          {
+            "period": "2025-10-01",
+            "ratio": 100
+          }
+        ]
+      },
+      {
+        "title": "인공지능",
+        "keywords": [
+          "인공지능",
+          "AI"
+        ],
+        "data": [
+          {
+            "period": "2025-10-01",
+            "ratio": 7.86219
+          }
+        ]
+      }
+    ]
+  }
+}

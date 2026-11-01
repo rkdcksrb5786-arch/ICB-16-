@@ -1,0 +1,28 @@
+{
+  "collected_at": "2026-11-01T10:30:40.022121+09:00",
+  "method": "GET",
+  "endpoint": "/search/v1/news",
+  "status_code": 200,
+  "response": {
+    "lastBuildDate": "Sun, 01 Nov 2026 10:30:41 +0900",
+    "total": 18581,
+    "start": 1,
+    "display": 2,
+    "items": [
+      {
+        "title": "올리고 <b>API</b> 사업 무게중심 상업화로 이동…에스티팜 성장 구조 바뀌나",
+        "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500290",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500290",
+        "description": "<b>네이버</b> 증권. 에스티팜이 올리고뉴클레오타이드 원료의약품(<b>API</b>) 사업의 상업화 프로젝트 확대에도 환율 하락과 저수익 품목 비중 증가로 3분기 수익성이 기대에 미치지 못했다. 유안타증권은 최근 보고서에서 상업화... ",
+        "pubDate": "Sun, 01 Nov 2026 10:08:00 +0900"
+      },
+      {
+        "title": "&quot;개인정보 활용부터 재난 예방까지&quot;…정부, AI 기반 디지털 행정 혁신 속...",
+        "originallink": "https://zdnet.co.kr/view/?no=20261029174206",
+        "link": "https://n.news.naver.com/mnews/article/092/0002443041?sid=105",
+        "description": "디지털서비스 개방은 정부와 공공기관이 제공하는 서비스를 <b>네이버</b>, 카카오, 금융기관 등 민간 앱에서도... 행안부는 성과공유회와 함께 디지털서비스 개방 응용프로그램인터페이스(<b>API</b>) 개발 지원사업 중간보고회를... ",
+        "pubDate": "Thu, 29 Oct 2026 17:43:00 +0900"
+      }
+    ]
+  }
+}
